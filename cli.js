@@ -4,7 +4,7 @@ var generator = require("./generator");
 var _ = require("underscore");
 
 if (process.argv.length < 5) {
-	console.log('usage: fbw n1, n2 n3');
+	console.log('usage: fbw n1 n2 n3');
 	return;
 }
 
