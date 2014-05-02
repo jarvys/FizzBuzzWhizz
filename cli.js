@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var generator = require("./generator");
 var _ = require("underscore");
 
